@@ -13,13 +13,13 @@ The website allows users to browse products, view product details, add items to 
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-<img src="assets/images/home1.png" width="700">
+<img src="./assets/images/Home1.png" width="700">
 
 ### 🛍️ Products Section
-<img src="assets/images/Home2.png" width="700">
+<img src="./assets/images/Home2.png" width="700">
 
 ### 🛒 Cart Functionality
-<img src="assets/images/cart.png" width="700">
+<img src="./assets/images/Cart.png" width="700">
 
 ---
 
