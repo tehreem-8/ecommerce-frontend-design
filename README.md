@@ -59,9 +59,10 @@ The website allows users to browse products, view product details, add items to 
 │── script.js
 │── /assets
 │     └── /images
-│          ├── home.png
-│          ├── products.png
-│          └── cart.png
+│          ├── Home1.png
+│          ├── Product1.png
+|          ├── Product.png
+│          └── Cart.png
 ```
 
 ---
