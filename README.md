@@ -101,5 +101,5 @@ The website allows users to browse products, view product details, add items to 
 
 ## 👨‍💻 Author
 
-- Your Name  
-- GitHub: https://github.com/your-username
+- Tehreem Nazir
+- GitHub: https://github.com/tehreem-8
